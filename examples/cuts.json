@@ -1,0 +1,7 @@
+{
+  "cuts": [
+    { "start_ms": 6000, "end_ms": 7700, "label": "Show the result" },
+    { "start_ms": 300, "end_ms": 1500, "label": "Set up the problem" },
+    { "start_ms": 3150, "end_ms": 5350, "label": "Show the action" }
+  ]
+}
